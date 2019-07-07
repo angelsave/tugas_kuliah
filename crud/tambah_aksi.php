@@ -8,7 +8,7 @@ $nim = $_POST['nim'];
 $alamat = $_POST['alamat'];
 
 // menginput data ke database
-mysqli_query($koneksi,"insert into mahasiswa values('','$nama','$nim','$alamat')");
+mysqli_query($config,"insert into mahasiswa values('','$nama','$nim','$alamat')");
 
 // mengalihkan halaman kembali ke index.php
 header("location:index.php");
