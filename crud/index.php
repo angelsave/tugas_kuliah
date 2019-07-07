@@ -19,7 +19,7 @@
 			<th>OPSI</th>
 		</tr>
 		<?php 
-		include 'koneksi.php';
+		include 'config.php';
 		$no = 1;
 		$data = mysqli_query($koneksi,"select * from mahasiswa");
 		while($d = mysqli_fetch_array($data)){
