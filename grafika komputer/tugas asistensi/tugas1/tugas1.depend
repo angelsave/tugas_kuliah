@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1572374109 source:/home/angel/Documents/Grafika Komputer/Tugas Asistensi/tugas1/main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+
+1572375837 source:/home/angel/Documents/Grafika Komputer/Tugas Asistensi/tugas1/tugas.cpp
+	<stdlib.h>
+	<GL/glut.h>
+
