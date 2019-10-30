@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1572453018 source:/home/angel/Documents/Grafika Komputer/Tugas/Uts/3/main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+
